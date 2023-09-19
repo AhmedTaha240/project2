@@ -86,13 +86,13 @@ opacity: .9;
     border-style: inset;
 }
 .div2:hover , .div3:hover , .div4:hover{
-    background-color: rgba(146, 18, 18, 0.877);
+    background-color: rgba(196, 174, 174, 0.877);
 }
 .a2{
     text-decoration: none;
     font-size: 20px;
     font-weight: bold;
-
+    color: black;
 }
 .a2:hover , .p4:hover , .p5:hover {
     color: white;
